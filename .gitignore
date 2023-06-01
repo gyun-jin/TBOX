@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio 사용자 설정
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# C/C++ 빌드 파일
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog
